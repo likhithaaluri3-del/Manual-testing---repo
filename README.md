@@ -1,4 +1,5 @@
-# Manual-testing---repo
+# Manual Testing repo
+
 ## About
 This repository showcases my manual testing skills through practical testing examples on demo web applications.
 
@@ -10,7 +11,7 @@ This repository showcases my manual testing skills through practical testing exa
 - Equivalence Partitioning
 - Regression Testing
 - Retesting
-- Bug Reporting and Defect Documentation
+- Bug Reporting
 
 ## Project Contents
 - Test Scenarios
@@ -23,8 +24,5 @@ This repository showcases my manual testing skills through practical testing exa
 - Microsoft Excel
 - Browser Developer Tools
 
-## Applications Tested
-Demo web applications used for testing practice.
-
 ## Objective
-To demonstrate my manual testing knowledge, test documentation skills, and ability to identify and report software defects.
+To demonstrate my software testing knowledge and ability to identify, document, and report software defects.
